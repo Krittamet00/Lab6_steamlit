@@ -1,0 +1,16 @@
+streamlit
+torch
+torchaudio
+torchvision
+torchinfo
+pillow
+numpy
+scikit-learn
+timm
+lightning
+matplotlib
+tqdm
+pandas
+scipy
+evaluate
+typing
