@@ -1,1 +1,1 @@
-# Lab6_steamlit
+# Inspecting fruit using photos and using deep learning techniques
